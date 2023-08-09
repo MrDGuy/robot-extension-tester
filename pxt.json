@@ -1,0 +1,26 @@
+{
+    "name": "Robot Extension Tester",
+    "description": "",
+    "dependencies": {
+        "device": "*",
+        "Robot Extension": "github:MrDGuy/robot-extension#92d95a19d8c52b7bad3ede6434c1711ac308b488"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md",
+        "assets.json",
+        "main.py"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "targetVersions": {
+        "target": "1.12.34",
+        "targetId": "arcade"
+    },
+    "supportedTargets": [
+        "arcade"
+    ],
+    "preferredEditor": "pyprj"
+}
