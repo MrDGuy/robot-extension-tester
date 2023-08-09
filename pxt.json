@@ -3,7 +3,7 @@
     "description": "",
     "dependencies": {
         "device": "*",
-        "Robot Extension": "github:MrDGuy/robot-extension#92d95a19d8c52b7bad3ede6434c1711ac308b488"
+        "Robot Extension": "github:MrDGuy/robot-extension#8d24d0faf259df5265c780cc7577b86ccc062ce7"
     },
     "files": [
         "main.blocks",
