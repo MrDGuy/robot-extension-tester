@@ -3,14 +3,16 @@
     "description": "",
     "dependencies": {
         "device": "*",
-        "Robot Extension": "github:MrDGuy/robot-extension#951fe4e5cb0c0570229f74906bc67ebed57bd3eb"
+        "Robot Extension": "github:MrDGuy/robot-extension#64fbb69d15070ccc00f00226305a636bbd4b9ec2"
     },
     "files": [
         "main.blocks",
         "main.ts",
         "README.md",
         "assets.json",
-        "main.py"
+        "main.py",
+        "tilemap.g.jres",
+        "tilemap.g.ts"
     ],
     "testFiles": [
         "test.ts"
